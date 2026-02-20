@@ -22,17 +22,17 @@ Welcome to my profile! I am a 17-year-old (turning 18 on March 10) security rese
 * **Post-Exploit:** Mimikatz, LinPEAS/WinPEAS.
 
 #### 🛡️ Operating Systems
-* **Primary:** BlackArch, Kali Linux.
+* **Primary:** Kali Linux, Black Arch.
 * **Target Knowledge:** Linux (Debian/RHEL), Windows Server (Active Directory basics).
 
 ---
 
 ### 🏆 Practical Experience & Lab Work
+* **[Detailed Pentest Write-ups (Repository)](https://github.com/LuX/Write-Ups)** — My documented process of identifying and exploiting vulnerabilities.
 * **VulnHub:** Successfully compromised 10+ machines including:
   * *Kioptrix Series*
   * *Tr0ll Series*
-  * *Metasploitable 2*
-    
+  * *Metasploitable 2*    
 ---
 
 ### 📊 Stats & Goals
