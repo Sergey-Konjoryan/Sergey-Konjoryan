@@ -29,7 +29,7 @@ Welcome to my profile! I am a 18-year-old security researcher focused on offensi
 
 ### 🏆 Practical Experience & Lab Work
 * **[Detailed Pentest Write-ups (Repository)](https://github.com/Sergey-Konjoryan/Write-Ups)** — My documented process of identifying and exploiting vulnerabilities.
-* **VulnHub:** Successfully compromised 10+ machines including:
+* **VulnHub:** Successfully compromised 5+ machines including:
   * *Kioptrix Series*
   * *Tr0ll Series*
   * *Raven Series*    
