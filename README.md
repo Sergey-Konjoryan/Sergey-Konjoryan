@@ -1,4 +1,4 @@
-# Hi, I'm Sergey (LuX) 👾
+# Hi, I'm Sergey 👾
 ### **Red Team Enthusiast**
 
 Welcome to my profile! I am a 18-year-old security researcher focused on offensive security, network infrastructure protection, and post-exploitation techniques.
